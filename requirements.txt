@@ -1,0 +1,13 @@
+torch==2.8.0
+torchcrf==1.1.0
+transformers==4.57.3
+tokenizers==0.22.1
+sentencepiece==0.2.1
+scikit-learn==1.6.1
+jieba==0.42.1
+seqeval==1.2.2
+numpy==1.24.4
+pandas==2.0.2
+tqdm==4.67.1
+protobuf==6.33.2
+tensorboard==2.20.0
